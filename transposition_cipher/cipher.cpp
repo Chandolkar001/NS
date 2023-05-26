@@ -15,7 +15,7 @@ int main()
 	getline(cin,message);
 	int messagesize=message.length();
 	int n=0,arrheight=0;
-	string rand="asfgaikhgahklahjsga";
+	string rand="abcdefghijklmnopqrstuvwxyz";
 	while(n<messagesize)
 	{
 		n=n+key_size;
